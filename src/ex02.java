@@ -19,7 +19,7 @@ public class ex02 {
     System.out.printf("%e\n", 300.0); // 지수형 출력
 
     System.out.println("Coding is Good!");
-    System.out.println("Java" + "Prigramming");
+    System.out.println("Java" + "Programming");
     System.out.printf("%d\n", 123);
     System.out.printf("%05d\n", 123);
     System.out.printf("%.3f", 123.45f);
