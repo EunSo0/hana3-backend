@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class exam4 {
+public class pr4 {
   public static String three(int n){
     String str = "";
 
